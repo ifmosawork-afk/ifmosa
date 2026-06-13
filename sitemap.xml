@@ -1,82 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <!-- Home -->
-    <url><loc>https://ifmosa.com/</loc><lastmod>2026-05-31</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://ifmosa.com/</loc><lastmod>2026-06-13</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
     
     <!-- Asia Pillar & Subpages -->
-    <url><loc>https://ifmosa.com/asia-visa-guide/</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-    <url><loc>https://ifmosa.com/singapore-spass-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/china-z-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/japan-ssw-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/vietnam-work-permit-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/hong-kong-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/thailand-work-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/turkey-work-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/south-korea-work-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/asia-visa-guide/</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+    <url><loc>https://ifmosa.com/singapore-spass-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/china-z-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/japan-ssw-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/vietnam-work-permit-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/hong-kong-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/thailand-work-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/turkey-work-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/south-korea-work-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
     
     <!-- Australia & NZ Pillar & Subpages -->
-    <url><loc>https://ifmosa.com/australia-nz-visa-guide/</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-    <url><loc>https://ifmosa.com/australia-working-holiday-visa-requirements</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/australia-skills-in-demand-visa-482</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/australia-skilled-independent-visa-189</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/australia-temporary-graduate-visa-485</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/australia-494-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/australia-186-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/new-zealand-accredited-employer-work-visa-requirements</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/new-zealand-specific-purpose-work-visa-requirements</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/australia-nz-visa-guide/</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+    <url><loc>https://ifmosa.com/australia-working-holiday-visa-requirements</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/australia-skills-in-demand-visa-482</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/australia-skilled-independent-visa-189</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/australia-temporary-graduate-visa-485</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/australia-494-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/australia-186-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/new-zealand-accredited-employer-work-visa-requirements</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/new-zealand-specific-purpose-work-visa-requirements</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
     
     <!-- Canada Pillar & Subpages -->
-    <url><loc>https://ifmosa.com/canada-visa-guide/</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-    <url><loc>https://ifmosa.com/canada-express-entry-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/pnp-canada-requirements</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/lima-visa-requirements</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/moving-to-canada-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/canada-caregiver-program</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/international-mobility-program</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/temporary-foreign-worker-program</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/canada-sawp-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/canada-visa-guide/</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+    <url><loc>https://ifmosa.com/canada-express-entry-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/pnp-canada-requirements</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/lima-visa-requirements</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/moving-to-canada-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/canada-caregiver-program</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/international-mobility-program</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/temporary-foreign-worker-program</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/canada-sawp-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
     
     <!-- Europe Pillar & Subpages -->
-    <url><loc>https://ifmosa.com/europe-visa-guide/</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-    <url><loc>https://ifmosa.com/germany-work-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/netherlands-work-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/spain-work-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/portugal-work-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/italy-work-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/ireland-work-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/sweden-work-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/poland-work-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/norway-work-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/luxembourg-work-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/malta-work-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/cyprus-work-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/europe-visa-guide/</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+    <url><loc>https://ifmosa.com/germany-work-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/netherlands-work-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/spain-work-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/portugal-work-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/italy-work-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/ireland-work-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/sweden-work-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/poland-work-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/norway-work-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/luxembourg-work-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/malta-work-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/cyprus-work-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
     
-    <!-- Gulf Pillar & Subpages -->
-    <url><loc>https://ifmosa.com/gulf-visa-guide/</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-    <url><loc>https://ifmosa.com/qatar-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/saudi-arabia-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/bahrain-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/oman-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/kuwait-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <!-- Gulf Pillar & Subpages (UPDATED with UAE) -->
+    <url><loc>https://ifmosa.com/gulf-visa-guide/</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+    <url><loc>https://ifmosa.com/uae-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/qatar-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/saudi-arabia-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/bahrain-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/oman-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/kuwait-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
     
     <!-- UK Pillar & Subpages -->
-    <url><loc>https://ifmosa.com/uk-visa-guide/</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-    <url><loc>https://ifmosa.com/skilled-work-visa-requirements</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/cos-visa-requirements</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/uk-relocation-cost</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/uk-visa-guide/</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+    <url><loc>https://ifmosa.com/skilled-work-visa-requirements</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/cos-visa-requirements</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/uk-relocation-cost</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
     
     <!-- USA Pillar & Subpages -->
-    <url><loc>https://ifmosa.com/usa-visa-guide/</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-    <url><loc>https://ifmosa.com/h1b-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/h2b-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/h2a-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/eb3-visa-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/green-card-guide</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://ifmosa.com/usa-visa-requirements</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/usa-visa-guide/</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+    <url><loc>https://ifmosa.com/h1b-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/h2b-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/h2a-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/eb3-visa-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/green-card-guide</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://ifmosa.com/usa-visa-requirements</loc><lastmod>2026-06-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
-    <!-- 404 page (optional, but can be included) -->
-    <url><loc>https://ifmosa.com/404</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.1</priority></url>
+    <!-- 404 page -->
+    <url><loc>https://ifmosa.com/404</loc><lastmod>2026-06-13</lastmod><changefreq>yearly</changefreq><priority>0.1</priority></url>
 
     <!-- External job board (for reference) -->
-    <url><loc>https://ifmosawork.com/jobs/</loc><lastmod>2026-05-31</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+    <url><loc>https://ifmosawork.com/jobs/</loc><lastmod>2026-06-13</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
 </urlset>
