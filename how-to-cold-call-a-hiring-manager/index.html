@@ -65,10 +65,12 @@
       columns: 2;
       column-gap: 30px;
       margin-bottom: 0;
+      padding-left: 20px;
     }
     .toc-box li {
       break-inside: avoid;
       margin-bottom: 10px;
+      word-break: break-word; /* FIX: prevents overflow on mobile */
     }
     .toc-box a {
       color: #ccc;
@@ -247,6 +249,10 @@
       }
       .toc-box ol {
         columns: 1;
+        padding-left: 16px;
+      }
+      .toc-box li {
+        word-break: break-word;
       }
       .compare-grid {
         grid-template-columns: 1fr;
@@ -747,7 +753,7 @@
       </div>
     </section>
 
-    <!-- ===== REGION SECTION – UPDATED WITH COLD CALL GUIDES ===== -->
+    <!-- Region Section -->
     <section class="content-section" id="regions">
       <h2>Cold Calling by Region – Deep‑Dive Country Guides</h2>
       <p>
