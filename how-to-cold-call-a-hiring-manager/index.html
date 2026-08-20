@@ -24,10 +24,10 @@
 
   <link rel="stylesheet" href="/style.css" />
 
-  <!-- Page‑specific styles for hero and layout -->
   <style>
+    /* ===== Hero ===== */
     .hero-coldcall {
-      background: linear-gradient(135deg, rgba(0,0,0,0.8), rgba(0,0,0,0.5)),
+      background: linear-gradient(135deg, rgba(0,0,0,0.85), rgba(0,0,0,0.65)),
                   url('https://images.unsplash.com/photo-1621255457330-7ef4e88ec27f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0');
       background-size: cover;
       background-position: center;
@@ -49,6 +49,36 @@
       justify-content: flex-start;
     }
 
+    /* ===== Table of Contents ===== */
+    .toc-box {
+      background: rgba(255,255,255,0.03);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 16px;
+      padding: 24px 28px;
+      margin-bottom: 50px;
+    }
+    .toc-box h2 {
+      margin-top: 0 !important;
+      font-size: 1.2rem !important;
+    }
+    .toc-box ol {
+      columns: 2;
+      column-gap: 30px;
+      margin-bottom: 0;
+    }
+    .toc-box li {
+      break-inside: avoid;
+      margin-bottom: 10px;
+    }
+    .toc-box a {
+      color: #ccc;
+      text-decoration: none;
+    }
+    .toc-box a:hover {
+      color: #D4AF37;
+    }
+
+    /* ===== General Content ===== */
     .content-section {
       margin-bottom: 60px;
     }
@@ -99,6 +129,47 @@
       margin: 20px 0;
     }
 
+    /* ===== Region Grid ===== */
+    .region-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 16px;
+      margin: 24px 0;
+    }
+    .region-card {
+      background: rgba(255,255,255,0.03);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 18px 20px;
+      transition: 0.2s;
+      text-decoration: none;
+      display: block;
+    }
+    .region-card:hover {
+      border-color: #D4AF37;
+      background: rgba(212,175,55,0.05);
+    }
+    .region-card h3 {
+      margin: 0 0 8px !important;
+      font-size: 1.05rem !important;
+      color: #D4AF37;
+    }
+    .region-card p {
+      margin-bottom: 0;
+      font-size: 0.92rem;
+      color: #bbb;
+    }
+
+    /* ===== Mistakes & FAQ ===== */
+    .mistake-item {
+      background: rgba(255,77,77,0.06);
+      border-left: 4px solid #ff4d4d;
+      border-radius: 10px;
+      padding: 16px 20px;
+      margin-bottom: 16px;
+    }
+    .mistake-item strong { color: #ff8080; }
+
     .faq-list .faq-item {
       background: rgba(255,255,255,0.02);
       padding: 18px 24px;
@@ -117,6 +188,7 @@
       margin-left: 0;
     }
 
+    /* ===== CTAs ===== */
     .cta-soft {
       text-align: center;
       background: rgba(212,175,55,0.05);
@@ -129,37 +201,6 @@
       max-width: 700px;
       margin: 0 auto 25px;
     }
-
-    /* --- Table of contents --- */
-    .toc-box {
-      background: rgba(255,255,255,0.03);
-      border: 1px solid rgba(255,255,255,0.1);
-      border-radius: 16px;
-      padding: 24px 28px;
-      margin-bottom: 50px;
-    }
-    .toc-box h2 {
-      margin-top: 0 !important;
-      font-size: 1.2rem !important;
-    }
-    .toc-box ol {
-      columns: 2;
-      column-gap: 30px;
-      margin-bottom: 0;
-    }
-    .toc-box li {
-      break-inside: avoid;
-      margin-bottom: 10px;
-    }
-    .toc-box a {
-      color: #ccc;
-      text-decoration: none;
-    }
-    .toc-box a:hover {
-      color: #D4AF37;
-    }
-
-    /* --- Inline mini CTA (used mid-article, lower emphasis than cta-soft) --- */
     .mini-cta {
       background: rgba(212,175,55,0.06);
       border: 1px dashed rgba(212,175,55,0.4);
@@ -176,7 +217,6 @@
       text-decoration: underline;
     }
 
-    /* --- Comparison table (Cold Call vs Cold Email) --- */
     .compare-grid {
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -193,42 +233,6 @@
       margin-top: 0 !important;
     }
     .compare-col ul { padding-left: 20px; margin-bottom: 0; }
-
-    /* --- Region grid --- */
-    .region-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-      gap: 16px;
-      margin: 24px 0;
-    }
-    .region-card {
-      background: rgba(255,255,255,0.03);
-      border: 1px solid rgba(255,255,255,0.1);
-      border-radius: 12px;
-      padding: 18px 20px;
-    }
-    .region-card h3 {
-      margin: 0 0 8px !important;
-      font-size: 1.05rem !important;
-    }
-    .region-card p { margin-bottom: 10px; font-size: 0.92rem; }
-    .region-card a {
-      color: #D4AF37;
-      font-weight: 600;
-      text-decoration: none;
-      font-size: 0.9rem;
-    }
-    .region-card a:hover { text-decoration: underline; }
-
-    /* --- Mistakes list --- */
-    .mistake-item {
-      background: rgba(255,77,77,0.06);
-      border-left: 4px solid #ff4d4d;
-      border-radius: 10px;
-      padding: 16px 20px;
-      margin-bottom: 16px;
-    }
-    .mistake-item strong { color: #ff8080; }
 
     @media (max-width: 768px) {
       .hero-coldcall {
@@ -278,8 +282,7 @@
         "headline": "How to Cold Call a Hiring Manager: The Complete 2026 Guide",
         "author": { "@id": "https://ifmosa.com/#organization" },
         "publisher": { "@id": "https://ifmosa.com/#organization" },
-        "mainEntityOfPage": "https://ifmosa.com/how-to-cold-call-a-hiring-manager/",
-        "about": "Cold calling hiring managers for visa-sponsored job opportunities"
+        "mainEntityOfPage": "https://ifmosa.com/how-to-cold-call-a-hiring-manager/"
       },
       {
         "@type": "FAQPage",
@@ -744,54 +747,47 @@
       </div>
     </section>
 
-    <!-- Region Section -->
+    <!-- ===== REGION SECTION – UPDATED WITH COLD CALL GUIDES ===== -->
     <section class="content-section" id="regions">
-      <h2>Cold Calling by Region: What to Know Before You Dial</h2>
+      <h2>Cold Calling by Region – Deep‑Dive Country Guides</h2>
       <p>
-        Hiring norms, typical visa pathways, and even what's considered acceptable "coldness" of a cold call vary
-        significantly by region. A quick primer before you target a specific market:
+        Hiring norms, visa pathways, and communication styles vary significantly by region. Click your target region
+        for a comprehensive guide with culture‑specific scripts, timing advice, and objection handling tailored to
+        that market.
       </p>
       <div class="region-grid">
-        <div class="region-card">
+        <a href="/how-to-cold-call-usa/" class="region-card">
           <h3>🇺🇸 USA</h3>
-          <p>Fast-moving, direct communication is welcomed. Sponsorship typically runs through H-1B or employer-sponsored green card pathways.</p>
-          <a href="/usa-visa-guide/">See the USA Visa Guide →</a>
-        </div>
-        <div class="region-card">
+          <p>Fast‑paced, direct. Master H‑1B sponsorship and get past ATS filters with confidence.</p>
+        </a>
+        <a href="/how-to-cold-call-uk/" class="region-card">
           <h3>🇬🇧 UK</h3>
-          <p>Formal but responsive to well-prepared outreach. Most sponsorship runs through the Skilled Worker visa route.</p>
-          <a href="/uk-visa-guide/">See the UK Visa Guide →</a>
-        </div>
-        <div class="region-card">
+          <p>Formal but responsive. Navigate Skilled Worker visas and the Certificate of Sponsorship process.</p>
+        </a>
+        <a href="/how-to-cold-call-canada/" class="region-card">
           <h3>🇨🇦 Canada</h3>
-          <p>Networking-driven hiring culture — cold calling is broadly well-received when it's specific and courteous.</p>
-          <a href="/canada-visa-guide/">See the Canada Visa Guide →</a>
-        </div>
-        <div class="region-card">
+          <p>Polite and networking‑driven. LMIA, Global Talent Stream, and province‑specific advice.</p>
+        </a>
+        <a href="/how-to-cold-call-europe/" class="region-card">
           <h3>🇪🇺 Europe</h3>
-          <p>Norms vary widely by country — expect more formality in Germany and France, more directness in the Netherlands and Nordics.</p>
-          <a href="/europe-visa-guide/">See the Europe Visa Guide →</a>
-        </div>
-        <div class="region-card">
+          <p>Diverse cultures. Covers Nordics, Western, Central, Southern, and Eastern Europe – with EU Blue Card insights.</p>
+        </a>
+        <a href="/how-to-cold-call-asia/" class="region-card">
           <h3>🌏 Asia</h3>
-          <p>Relationship-first cultures in much of the region — an introductory email before calling is often appreciated.</p>
-          <a href="/asia-visa-guide/">See the Asia Visa Guide →</a>
-        </div>
-        <div class="region-card">
-          <h3>🇦🇺 Australia &amp; NZ</h3>
-          <p>Casual, friendly tone works well — but still keep the call tightly focused and time-conscious.</p>
-          <a href="/australia-nz-visa-guide/">See the Australia &amp; NZ Guide →</a>
-        </div>
-        <div class="region-card">
+          <p>Relationship‑first. East Asia (Japan, China, Korea) and Southeast Asia (Singapore, Thailand, Vietnam) – with guanxi and respect.</p>
+        </a>
+        <a href="/how-to-cold-call-australia-nz/" class="region-card">
+          <h3>🦘 Australia &amp; NZ</h3>
+          <p>Casual but time‑conscious. TSS 482 (AUS) and AEWV (NZ) with project‑based outreach.</p>
+        </a>
+        <a href="/how-to-cold-call-gulf/" class="region-card">
           <h3>🕌 Gulf</h3>
-          <p>Sponsorship structures differ significantly from Western markets — understand the local employer-sponsorship system before you call.</p>
-          <a href="/gulf-visa-guide/">See the Gulf Visa Guide →</a>
-        </div>
-        <div class="region-card">
+          <p>Warmth and respect. Overcome the "local experience" objection and understand Kafala sponsorship.</p>
+        </a>
+        <a href="/how-to-cold-call-tech/" class="region-card">
           <h3>💻 Tech Roles</h3>
-          <p>Tech hiring managers are often receptive to direct outreach — many were hired that way themselves.</p>
-          <a href="/tech-visa-guide/">See the Tech Visa Guide →</a>
-        </div>
+          <p>Global tech visas (H‑1B, GTS, EU Blue Card, Tech Nation). Concise, portfolio‑focused scripts for engineers and data scientists.</p>
+        </a>
       </div>
     </section>
 
